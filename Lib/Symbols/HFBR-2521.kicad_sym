@@ -1,0 +1,222 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "HFBR-2521" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "XR" (id 0) (at 2.5413 8.25922 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "HFBR-2521" (id 1) (at 2.54403 -7.63208 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "HFBR-2521:HFBR-15X3" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Broadcom / Avago" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nFiber Optic Receiver General Purpose 5MBd -21.6dBm 4.75V ~ 5.25V 6.2mA\n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MPN" "HFBR-2521" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "OC_FARNELL" "1173131" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/HFBR-2521/Avago/view-part/?ref=snap" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "HFBR-2521" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4258202&manufacturer=Broadcom / Avago&part_name=HFBR-2521&search_term=hfbr 2521" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "OC_NEWARK" "06F6091" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/HFBR-2521/Avago/view-part/?ref=eda" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "HFBR-2521_0_0"
+      (polyline
+        (pts (xy 1.27 2.54) (xy 0.0 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy -1.27 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 0.0) (xy 0.0 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy -1.27 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 2.54) (xy 0.0 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 5.08) (xy 0.0 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 2.54) (xy -1.27 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 2.54) (xy 0.0 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.683 0.127) (xy -2.286 1.524)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.286 1.524) (xy -3.175 1.143)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.175 1.143) (xy -2.667 0.635)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.667 0.635) (xy -2.286 1.524)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.413 2.667) (xy -3.302 2.286)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.302 2.286) (xy -2.794 1.778)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.794 1.778) (xy -2.413 2.667)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.81 1.27) (xy -2.413 2.667)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -9.525 5.08) (xy -5.08 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 5.08) (xy -5.08 4.445)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 -2.54) (xy -9.525 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -9.525 -2.54) (xy -10.16 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -10.16 -0.635) (xy -8.89 3.175)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -8.89 3.175) (xy -9.525 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy 0.0 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 -2.54) (xy 2.54 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 5.08) (xy 2.54 5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 7.62) (xy 2.54 -5.08)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy 2.54 -5.08) (xy 12.7 -5.08)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy 12.7 -5.08) (xy 12.7 7.62)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy 12.7 7.62) (xy 2.54 7.62)) (stroke (width 0.4064))
+      )
+      (polyline
+        (pts (xy -5.08 4.445) (xy -4.445 4.445)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -5.08 4.445) (xy -5.08 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 4.445) (xy -4.445 -1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -4.445 -1.905) (xy -5.08 -1.905)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -5.08 -1.905) (xy -5.08 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -7.62 5.715) (xy -7.62 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 7.62) (xy -5.715 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -5.08 7.62) (xy -3.175 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 7.62) (xy -0.635 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -3.175) (xy -7.62 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -5.08) (xy -5.715 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -5.08 -5.08) (xy -3.175 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -5.08) (xy -0.635 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 -5.08) (xy 1.905 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 7.62) (xy 1.905 7.62)) (stroke (width 0.1524))
+      )
+      (text "LL" (at -5.71886 0.0 900)
+        (effects (font (size 1.7792 1.7792)) (justify bottom left))
+      )
+      (text "Rx" (at -3.81499 -4.45082 0)
+        (effects (font (size 1.78033 1.78033)) (justify bottom left))
+      )
+      (pin power_in line (at 20.32 5.08 180.0) (length 7.62)
+        (name "VCC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 20.32 2.54 180.0) (length 7.62)
+        (name "RL"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 20.32 0.0 180.0) (length 7.62)
+        (name "VO"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 20.32 -2.54 180.0) (length 7.62)
+        (name "GND"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
